@@ -28,6 +28,16 @@ https://arxiv.org/pdf/2410.13961v1
 Repo: https://github.com/megagonlabs/Hallucination_MDS
 
 
+Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering
+https://arxiv.org/pdf/2410.15999
+https://github.com/yuzhaouoe/SAE-based-representation-engineering
+
+
+
+Tofu Eval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization
+https://arxiv.org/pdf/2402.13249
+
+
 
 
 
