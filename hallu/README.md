@@ -3,8 +3,7 @@ Hallucinations related tools
 
 ```
   Shared Tools and documents related to
-  Hallucination detection, correction related tools
-  for internal uses.
+  Hallucination detection, correction related tools.
 
 
 
