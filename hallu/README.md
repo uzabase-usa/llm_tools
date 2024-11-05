@@ -22,6 +22,11 @@ Hallucinations related tools
 #### Recent Publications
 ```
 
+A factuality benchmark called SimpleQA 
+https://openai.com/index/introducing-simpleqa/
+
+
+
 From Single to Multi:How LLMs Hallucinate in Multi-Document Summarization (Oct 2024)
 https://arxiv.org/pdf/2410.13961v1
 
