@@ -32,6 +32,11 @@ https://arxiv.org/pdf/2410.13961v1
 Repo: https://github.com/megagonlabs/Hallucination_MDS
 
 
+Hallucination and Markov chain.
+https://arxiv.org/pdf/2410.20340
+
+
+
 Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering
 https://arxiv.org/pdf/2410.15999
 https://github.com/yuzhaouoe/SAE-based-representation-engineering
